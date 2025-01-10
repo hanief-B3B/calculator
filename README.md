@@ -1,2 +1,2 @@
-# kalkulator
-Aplikasi Kalkulator
+# calculator
+themed calculator
